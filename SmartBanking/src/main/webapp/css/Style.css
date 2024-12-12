@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+*{
+	  font-family: "Dancing Script", serif;
+	margin:0px;
+	padding:0px;
+}
+
+.box{
+	height:100px;
+	width:100px;
+	background-color: greenyellow;
+	margin:auto;
+}
